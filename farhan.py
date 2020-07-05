@@ -80,15 +80,15 @@ vuln = "\033[32mVuln"
 os.system("clear")
 print "\033[1;96m ============================================================="
 print  """\033[1;91m=======================================
-\033[1;96mAuthor  \033[1;93m: \033[1;92mRana Aahil
-\033[1;96mInstagram \033[1;93m: \033[1;92mFlowRana
-\033[1;96mFacebook  \033[1;93m: \033[1;92m Aahilrana4072
-\033[1;96mGithub \033[1;93m: \033[1;92mhttps://Github.com/Therana/zero
+\033[1;96mAuthor  \033[1;93m: \033[1;92mSanim Al Farhan
+\033[1;96mInstagram \033[1;93m: \033[1;92mFrhan
+\033[1;96mFacebook  \033[1;93m: \033[1;92m Sanim Al Farhan
+\033[1;96mGithub \033[1;93m: \033[1;92mhttps://Github.com/siam500/farhan
 \033[1;91m======================================="""
 print " \x1b[1;93m============================================================="
 
-CorrectUsername = "rana"
-CorrectPassword = "rana"
+CorrectUsername = "siam"
+CorrectPassword = "siam"
 
 loop = 'true'
 while (loop == 'true'):
